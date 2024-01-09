@@ -1,0 +1,22 @@
+[
+  {
+    "id_camper": 902,
+    "ruta_asignada": "java",
+    "profesor_asignado": "camilo"
+  },
+  {
+    "id_camper": 904,
+    "ruta_asignada": "java",
+    "profesor_asignado": "camilo"
+  },
+  {
+    "id_camper": 905,
+    "ruta_asignada": "java",
+    "profesor_asignado": "camilo"
+  },
+  {
+    "id_camper": 906,
+    "ruta_asignada": "java",
+    "profesor_asignado": "camilo"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "camilo",
+    "especialidad": "java",
+    "horario": "ma\u00f1an"
+  },
+  {
+    "nombre": "cristian",
+    "especialidad": "java",
+    "horario": "muxto"
+  },
+  {
+    "nombre": "\u001b",
+    "especialidad": "",
+    "horario": "/bin/python3 /home/user/Escritorio/Proyectopy-main/util/campers.py"
+  }
+]
